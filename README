@@ -1,0 +1,14 @@
+This project is a simple system that allows users to create custom QR codes from text or links.
+QR codes are a type of matrix barcode that can be scanned using a smartphone or QR code reader, which can then take users to a specific website or display a specific
+message.
+
+Features:
+  . Create a custom QR code from text or a link
+  . Download the QR code as a PNG file
+  
+To get started with this project, you will need to do the following:
+  . Clone the repository
+  . Or I'll try to simply add a working website link in the description
+  
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
